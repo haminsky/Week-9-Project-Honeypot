@@ -23,3 +23,4 @@ CodePath assignment for week 9
     
     GIF
     
+![honypot](https://user-images.githubusercontent.com/30760006/38077194-f6328eee-32ec-11e8-9719-c9b0277738dc.gif)
