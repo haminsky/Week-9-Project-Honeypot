@@ -17,7 +17,34 @@ CodePath assignment for week 9
     
     from all over the world including port scanning, port 	5060 	SipSession, 
     
-    top 5 are:
+    Attacks:
+    
+TOP 5 Attacker IPs:
+
+    67.169.106.102 (3,149 attacks)
+    191.101.167.7 (16 attacks)
+    77.72.85.25 (9 attacks)
+    77.72.82.145 (5 attacks)
+    5.188.11.89 (5 attacks)
+
+TOP 5 Attacked ports:
+
+    445 (19 times)
+    8291 (16 times)
+    23 (13 times)
+    7200 (8 times)
+    5002 (8 times)
+
+TOP 5 Honey Pots:
+
+    dionaea (3,284 attacks)
+
+TOP 5 Sensors:
+
+    mhn-honeypot-1 (3,284 attacks)
+
+
+    
     
     Any unresolved questions raised by the data collected
     
